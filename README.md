@@ -50,8 +50,7 @@ Readline - Filesystem & directory APIs - STL
 
 GETTING STARTED
 
-1.  Clone the repo git clone https://github.com/Lambo-IITian/Shell.git
-    cd Shell
+1.  Clone the repo git clone https://github.com/mohit-79/POSIX-Compliant-shell.git
 
 2.  Compile g++ main.cpp -lreadline -o buildshell
 
@@ -93,6 +92,6 @@ Contributions are welcome. Open a PR or issue if you have ideas.
 
 AUTHOR
 
-Mohit Harjani IIT BHU Systems enthusiast • Builder • Curious engineer
+Mohit IIT BHU Systems enthusiast • Builder • Curious engineer
 
 Built to understand the machine, not just use it.
